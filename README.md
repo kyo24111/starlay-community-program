@@ -93,7 +93,7 @@ ASTR Wallet Address: XXX
 
 Contributions:
 
-1. CM - Manage and support both Moon and Main community chat.
+1. CM - Manage and support community chat.
 - [add statistics here]
 1. VSM - Twitted 4 memes.
 - [link to memes tweet]
